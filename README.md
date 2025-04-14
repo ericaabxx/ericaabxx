@@ -26,7 +26,7 @@ Hey there! 💙 My name is Erica. I'm a 17-year-old and currently reside in Port
 **Contact Me**
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/ericaabxx/ericaabxx/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ericaab/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/erica.ab/)
 
 **GitHub Stats**
 
