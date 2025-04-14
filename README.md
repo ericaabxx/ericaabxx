@@ -33,3 +33,5 @@ Hey there! 💙 My name is Erica. I'm a 17-year-old and currently reside in Port
 <a href="https://github.com/ericaabxx" title="Perfil do Let">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericaabxx&theme=dracula&show_icons=true" />
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaabxx&layout=compact&theme=radical)
