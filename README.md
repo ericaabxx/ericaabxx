@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 
-Hey there! 💙 My name is Erica. I'm a 17-year-old and currently reside in Porto alegre, Brasil. I'm studyng at as a Mobile Developer, using React Native!
+Hey there! 💙 My name is Erica. I'm a 18 year old and currently reside in Porto alegre, Brasil. I'm studyng at as a Mobile Developer, using React Native!
 
  ## My Skills
 
