@@ -1,100 +1,34 @@
-<h1 align="center">Olá! 👋 Eu sou a Erica da Silva Abreu</h1>
+# Olá! 👋 Eu sou Erica Abreu
 
-<h3 align="center">
-💻 Desenvolvedora Júnior | Front-end | Landing Pages | SQL
-</h3>
-
----
+💻 Estudante de Análise e Desenvolvimento de Sistemas | SQL | JavaScript | React Native
 
 ## 👩‍💻 Sobre mim
 
-- 💼 Desenvolvedora Júnior
-- 🎯 Focada em desenvolvimento de **Landing Pages**
-- ⚡ Também trabalho com SQL e E-commerce
-
----
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas no Senac EAD (conclusão prevista: out/2028)
+- 💼 Mais de dois anos de experiência com Oracle, PL/SQL e consultas SQL no suporte a operações de e-commerce
+- 📱 Estudando JavaScript e React Native para desenvolver aplicativos
 
 ## 🚀 Tecnologias
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,git,github,vscode,mysql" />
+## 📌 Projetos
 
-</div>
-
----
+Em breve: estou desenvolvendo meus primeiros projetos com React Native e JavaScript. Fique à vontade para acompanhar meus repositórios.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericaabxx&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaabxx&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ericaabxx&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ericaabxx&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ericaabxx&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ericaabxx&show_icons=true&hide_border=true)
 
 ## 🌐 Contato
 
-<p align="center">
-<a href="https://linkedin.com/in/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericaabreu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoericadasilvaabreu@gmail.com)
 
-<a href="mailto:contantoericadasilvaabreu@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/ericaabxx">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=ericaabxx&color=blue)
-
-</div>
-
----
-
-<div align="center">
-
-### Obrigada pela visita! ❤️
-
-</div>
+Obrigada pela visita! ❤️
